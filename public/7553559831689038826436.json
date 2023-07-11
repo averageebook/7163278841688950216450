@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244806131301",
+    "project_id": "king-duit",
+    "storage_bucket": "king-duit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244806131301:android:c4ba74e84635cca0fd708c",
+        "android_client_info": {
+          "package_name": "com.juniordev.duit.king.cuan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244806131301-mslv3trpijqvq25d9urnsk6pqq777607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_hRHJ7J7oP-wyb1awq_bjTvUw_2y_iOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244806131301-mslv3trpijqvq25d9urnsk6pqq777607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
